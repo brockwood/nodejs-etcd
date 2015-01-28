@@ -26,10 +26,12 @@
   },
   "dependencies": {
     "request": "~2.29.0",
-    "debug": "~0.7.2"
+    "debug": "~0.7.2",
+    "http-sync": "~0.1.0"
   },
   "devDependencies": {
     "should": "~2.0.1",
-    "mocha": "~1.13.0"
+    "mocha": "~1.13.0",
+    "http-sync": "~0.1.0"
   }
 }
